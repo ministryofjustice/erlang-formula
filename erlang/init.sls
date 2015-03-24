@@ -1,5 +1,5 @@
 include:
-  - erlang.repository
+  - .repo
 
 # A minimal set of Erlang/OTP packages. Attempt to install
 # the `erlang` meta-package, will result in a massive number
